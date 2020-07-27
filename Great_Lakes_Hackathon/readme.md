@@ -1,4 +1,4 @@
-This was a great lakes conducted Hackathon
+This Hackathon was a conducted by Great Lakes Institute of Management
 1) The Hackathons goal was to predict the intensity of the accident a person met with.
 2) The given paramaters were injury severity, weight of vehicle, year of vehicle etc..
 
