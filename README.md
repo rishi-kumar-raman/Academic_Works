@@ -1,2 +1,1 @@
-# Academic_Works
- A view of my Academic Works(Great Lakes)
+A view of my Academic works in Great Lakes Institute of Management
